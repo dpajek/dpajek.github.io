@@ -3,12 +3,15 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "391328c6123bb2f16064026db873a7b7",
+  "assets/AssetManifest.json": "8fc68f1ca209f84eb396dc72eda92cb0",
 "assets/assets/flutter_t1_1.png": "cb3466ac6b8bedeb1fbcbcea18d813b5",
 "assets/assets/flutter_t1_2.png": "34b189903fe071b24305f9ee512a25a5",
 "assets/assets/flutter_t1_3.png": "2177fefceb3acf6cefd220279c71d3b3",
+"assets/assets/mountain1-small.jpg": "d6eafc9b1e48c4d9894e1b80b105471a",
 "assets/assets/mountain1.jpg": "923a122e8b91e53f7e6e498d7bc4dfe3",
+"assets/assets/mountain2-small.jpg": "33f977b56f816c178a699942bb0dd5cd",
 "assets/assets/mountain2.jpg": "bfe9feecac36e90dee387d833e943a1b",
+"assets/assets/mountain3-small.jpg": "b61442d228d303210a0f724d2fd7aa8f",
 "assets/assets/mountain3.jpg": "4dbc02c406656587744bcdc88f348e34",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "a68d2a28c526b3b070aefca4bac93d25",
@@ -19,7 +22,7 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "index.html": "1c4fecd9ecbc17aaba62d4434534b9d0",
 "/": "1c4fecd9ecbc17aaba62d4434534b9d0",
-"main.dart.js": "919395996d4fbb50808ad7ed2cf94b6f",
+"main.dart.js": "678b5ca75d10bfc9ad5b65f53494a206",
 "manifest.json": "4d378a1efd02c44795b3c627273a68db"
 };
 
